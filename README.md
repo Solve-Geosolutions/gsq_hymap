@@ -17,11 +17,7 @@ Information about how to setup the environment
 
 ## Data
 
-You can download the data using the dvc. First set up the dvc remote to retrieve the data. DVC remote location is stored in settings.yaml file. Use following command to retrieve the data
-
-``` 
-dvc remote add -d PROJECTNAMEIN_SETTINGS_FILE DVC_REMOTE_IN_SETTINGS_FILE 
-```
+LELELLELELELELELE
 
 ## Code 
 
