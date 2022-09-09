@@ -2,7 +2,7 @@
 
 # Queensland HyMap Data Sets
 
-This repository is complimentary to a Datarock applied science [blogpost](link_to_blogpost) that seeks to demonstrate some fully open source methods for processing, manipulating and analysing hyperspectral data sets with relatively modest computing resources.
+This repository is complimentary to a Datarock applied science [blogpost](link_to_blogpost) that seeks to demonstrate some fully open source methods for processing, manipulating and analysing hyperspectral data sets with relatively modest computing resources. 
 
 ## Notebooks
 
