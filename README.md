@@ -2,13 +2,7 @@
 
 # Queensland HyMap Data Sets
 
-This repository is complimentary to a Datarock applied science [blogpost](link_to_blogpost) and seeks to demonstrate some fully open source methods for processing, manipulating and analysing hyperspectral data sets with relatively modest computing resources. 
-
-
-
-
-
- contains code and workflows used to demonstrate open source approaches to processing and manipulating hyperspectral data sets acquired by HyVista Corporation's HyMap system. The data was acquired in 2006-2008 as part of the Next Generation Mineral Mapping initiative, a collaborative project run by the CSIRO, the Geological Survey of Queensland, Geoscience Australia and James Cook University to collect and analyse airborne hyperspectral and satellite borne multispectral data in prospective areas of North Queensland.
+This repository is complimentary to a Datarock applied science [blogpost](link_to_blogpost) that seeks to demonstrate some fully open source methods for processing, manipulating and analysing hyperspectral data sets with relatively modest computing resources.
 
 ## Notebooks
 
