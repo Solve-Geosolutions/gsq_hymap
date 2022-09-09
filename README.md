@@ -18,7 +18,7 @@ This notebok was used to apply geometry lookup tables to raw reflectance data cu
 
 ![01_convex_hull_computation.ipynb](assets/notebook_1_image.png)
 
-###  **02_vegetation_identification.ipynb**
+###  [**02_vegetation_identification.ipynb**](notebooks/01_apply_geocorrections_and_mosaic.ipynb)
 
 A notebook used to derive normalised difference vegetation index (NDVI) and a crude vegetation mask from the georeferenced hyperspectral mosaic. A memory efficient native ENVI blockwindow approach was used for computation.
 
