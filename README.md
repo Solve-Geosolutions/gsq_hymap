@@ -12,26 +12,26 @@ This repository is complimentary to a Datarock applied science [blogpost](link_t
 
 ## Notebooks
 
-###  **01_apply_geocorrections_and_mosaic.ipynb**
+###  [**01_apply_geocorrections_and_mosaic.ipynb**](notebooks/01_apply_geocorrections_and_mosaic.ipynb)
 
 This notebok was used to apply geometry lookup tables to raw reflectance data cubes in order to generate a georeferenced hyperspectral mosaic in ENVI grid format.
 
 ![01_convex_hull_computation.ipynb](assets/notebook_1_image.png)
 
-###  [**02_vegetation_identification.ipynb**](notebooks/01_apply_geocorrections_and_mosaic.ipynb)
+###  [**02_vegetation_identification.ipynb**](notebooks/02_vegetation_identification.ipynb)
 
 A notebook used to derive normalised difference vegetation index (NDVI) and a crude vegetation mask from the georeferenced hyperspectral mosaic. A memory efficient native ENVI blockwindow approach was used for computation.
 
 ![02_convex_hull_computation.ipynb](assets/notebook_2_image.png)
 
-### **03_convex_hull_computation.ipynb**
+### [**03_convex_hull_computation.ipynb**](notebooks/03_convex_hull_computation.ipynb)
 
 A notebook used to apply a pixel-wise convex hull continuum removal to the hyperspectral data mosaic.
 
 ![03_convex_hull_computation.ipynb](assets/notebook_3_image.png)
 
 
-### **04_white_mica_abundance.ipynb**
+### [**04_white_mica_abundance.ipynb**](notebooks/04_white_mica_abundance.ipynb)
 
 A simplistic white mica feature depth and feature position extraction workflow using quadratic functions fitted to a feature window.
 
