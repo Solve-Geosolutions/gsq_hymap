@@ -2,7 +2,11 @@
 
 # Queensland HyMap Data Sets
 
-This repository is complimentary to a Datarock applied science [blogpost](link_to_blogpost) 
+This repository is complimentary to a Datarock applied science [blogpost](link_to_blogpost) and seeks to demonstrate some fully open source methods for processing, manipulating and analysing hyperspectral data sets with relatively modest computing resources. 
+
+
+
+
 
  contains code and workflows used to demonstrate open source approaches to processing and manipulating hyperspectral data sets acquired by HyVista Corporation's HyMap system. The data was acquired in 2006-2008 as part of the Next Generation Mineral Mapping initiative, a collaborative project run by the CSIRO, the Geological Survey of Queensland, Geoscience Australia and James Cook University to collect and analyse airborne hyperspectral and satellite borne multispectral data in prospective areas of North Queensland.
 
@@ -16,7 +20,7 @@ This notebok was used to apply geometry lookup tables to raw reflectance data cu
 
 ###  **02_vegetation_identification.ipynb**
 
-A notebook used to derive normalised difference vegetation index and a crude vegetation mask from the georeferenced hyperspectral mosaic. A memory efficient native ENVI blockwindow approach was used for computation.
+A notebook used to derive normalised difference vegetation index (NDVI) and a crude vegetation mask from the georeferenced hyperspectral mosaic. A memory efficient native ENVI blockwindow approach was used for computation.
 
 ![02_convex_hull_computation.ipynb](assets/notebook_2_image.png)
 
@@ -35,5 +39,4 @@ A simplistic white mica feature depth and feature position extraction workflow u
 
 ## Data
 
-The Geological Survey of Queensland hosts a number of products from the HyMap surveys which can be downloaded [**here**](https://geoscience.data.qld.gov.au/data/dataset/?type=spectral). The raw data used in this repository requires temporary AWS access for which that reader is advised to contact [**GSQ**](https://www.resources.qld.gov.au/?contact=gsq) directly. 
-
+All data presented in this repository are taken from the Dugald Block D HyMap survey supplied by the Geological Survey of Queensland. The GSQ hosts a number of spectral products derived from this and other HyMap surveys, which can be downloaded [**here**](https://geoscience.data.qld.gov.au/data/dataset/?type=spectral), however access to the raw spectral data requires temporary AWS links for which the reader is advised to contact [**GSQ**](https://www.resources.qld.gov.au/?contact=gsq) directly. 
