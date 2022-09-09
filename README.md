@@ -6,9 +6,7 @@ This repository is complimentary to a Datarock applied science [blogpost](link_t
 
  contains code and workflows used to demonstrate open source approaches to processing and manipulating hyperspectral data sets acquired by HyVista Corporation's HyMap system. The data was acquired in 2006-2008 as part of the Next Generation Mineral Mapping initiative, a collaborative project run by the CSIRO, the Geological Survey of Queensland, Geoscience Australia and James Cook University to collect and analyse airborne hyperspectral and satellite borne multispectral data in prospective areas of North Queensland.
 
-## Code
-
-The *code* directory contains the following notebooks:
+## Notebooks
 
 ###  **01_apply_geocorrections_and_mosaic.ipynb**
 
@@ -24,7 +22,7 @@ A notebook used to derive normalised difference vegetation index and a crude veg
 
 ### **03_convex_hull_computation.ipynb**
 
-A notebook used to apply a slow, pixel-wise convex hull continuum removal to the hyperspectral data. 
+A notebook used to apply a pixel-wise convex hull continuum removal to the hyperspectral data mosaic.
 
 ![03_convex_hull_computation.ipynb](assets/notebook_3_image.png)
 
