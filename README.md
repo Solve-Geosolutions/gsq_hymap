@@ -33,4 +33,4 @@ A simplistic white mica feature depth and feature position extraction workflow u
 
 ## Data
 
-All data presented in this repository are taken from the Dugald Block D HyMap survey supplied by the Geological Survey of Queensland. The GSQ hosts a number of spectral products derived from this and other HyMap surveys, which can be downloaded [**here**](https://geoscience.data.qld.gov.au/data/dataset/?type=spectral), however access to the raw spectral data requires temporary AWS links for which the reader is advised to contact [**GSQ**](https://www.resources.qld.gov.au/?contact=gsq) directly. 
+All data presented in this repository are taken from the Dugald Block D HyMap survey supplied by the Geological Survey of Queensland. The GSQ hosts a number of spectral products derived from this and other HyMap&trade; surveys, which can be downloaded [**here**](https://geoscience.data.qld.gov.au/data/dataset/?type=spectral), however access to the raw spectral data requires temporary AWS links for which the reader is advised to contact [**GSQ**](https://www.resources.qld.gov.au/?contact=gsq) directly. 
